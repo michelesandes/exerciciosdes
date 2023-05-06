@@ -1,0 +1,2 @@
+# exerciciosdes
+ pratica dos exercicios
